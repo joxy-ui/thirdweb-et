@@ -1,2 +1,1 @@
-# thirdweb-et
-Created with CodeSandbox
+# thirdweb embeds
